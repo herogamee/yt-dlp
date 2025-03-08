@@ -1789,6 +1789,10 @@ Line 1
         <div itemprop="author" itemscope>foo</div>
     '''
 
+    GET_ELEMENT_BY_ATTRIBUTE_TEST_STRING_UPPERCASE = '''
+        <DIV itemprop="author" itemscope>foo</DIV>
+    '''
+
     def test_get_element_by_attribute(self):
         html = self.GET_ELEMENT_BY_CLASS_TEST_STRING
 
@@ -1797,6 +1801,10 @@ Line 1
         self.assertEqual(get_element_by_attribute('class', 'no-such-foo', html), None)
 
         html = self.GET_ELEMENT_BY_ATTRIBUTE_TEST_STRING
+
+        self.assertEqual(get_element_by_attribute('itemprop', 'author', html), 'foo')
+
+        html = self.GET_ELEMENT_BY_ATTRIBUTE_TEST_STRING_UPPERCASE
 
         self.assertEqual(get_element_by_attribute('itemprop', 'author', html), 'foo')
 
@@ -1858,7 +1866,7 @@ Line 1
     random text lorem ipsum</p>
     <div>
         this should be returned
-        <span>this should also be returned</span>
+        <SPAN>this should also be returned</SPAN>
         <div>
             this should also be returned
         </div>
@@ -1880,6 +1888,10 @@ Line 1
         self.assertEqual(
             get_element_text_and_html_by_tag('span', html),
             (self.GET_ELEMENT_BY_TAG_RES_INNERSPAN_TEXT, self.GET_ELEMENT_BY_TAG_RES_INNERSPAN_HTML))
+        self.assertEqual(
+            get_element_text_and_html_by_tag('SPAN', html),
+            (self.GET_ELEMENT_BY_TAG_RES_INNERSPAN_TEXT, self.GET_ELEMENT_BY_TAG_RES_INNERSPAN_HTML))
+
         self.assertRaises(compat_HTMLParseError, get_element_text_and_html_by_tag, 'article', html)
 
     def test_iri_to_uri(self):
